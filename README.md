@@ -1,7 +1,8 @@
 # README
 
 <h2>Requirements</h2>
-
+<h1>Hi I am Shaitan prajapat <h1>
+this is video chat appliction <br>
 Ruby v2.6.2<br> 
 Rails v6.0.4.1<br> 
 Node v14.8.0<br>
