@@ -1,0 +1,7 @@
+production:
+ adapter: postgresql
+ encoding: unicode
+ database: root
+ pool: 5
+ username: postgre
+ password: 12345678
